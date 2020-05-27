@@ -1,0 +1,12 @@
+Population based prevalence of depression:
+https://apps.who.int/gho/data/view.main.GDO2109v?lang=en
+
+Prevalence of overwiehgts among adults
+https://apps.who.int/gho/data/view.main.GDO2105v?lang=en
+
+prevalence of obesity among adults BMI >=30
+https://apps.who.int/gho/data/node.main.A900A?lang=en
+https://www.kaggle.com/amanarora/obesity-among-adults-by-country-19752016?select=obesity-cleaned.csv
+
+Heavy episodic drinking
+https://apps.who.int/gho/data/view.main.GDO2104v?lang=en
